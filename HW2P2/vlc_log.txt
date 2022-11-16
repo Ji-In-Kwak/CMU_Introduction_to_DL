@@ -1,0 +1,38 @@
+Epoch 1/10: 
+Train Acc 0.0236%	 Train Loss 8.8141	 Learning Rate 0.1000
+Val Acc 0.0488%	 Val Loss 8.7268
+
+Epoch 2/10: 
+Train Acc 0.0959%	 Train Loss 8.4496	 Learning Rate 0.1000
+Val Acc 0.1264%	 Val Loss 8.4375
+
+Epoch 3/10: 
+Train Acc 0.3148%	 Train Loss 7.9867	 Learning Rate 0.1000
+Val Acc 0.1695%	 Val Loss 8.6587
+
+Epoch 4/10: 
+Train Acc 0.8456%	 Train Loss 7.4804	 Learning Rate 0.1000
+Val Acc 0.9134%	 Val Loss 7.6015
+
+Epoch 5/10: 
+Train Acc 2.3523%	 Train Loss 6.8875	 Learning Rate 0.1000
+Val Acc 2.7372%	 Val Loss 6.8675
+
+Epoch 6/10: 
+Train Acc 5.4602%	 Train Loss 6.2327	 Learning Rate 0.1000
+Val Acc 4.4577%	 Val Loss 6.4969
+
+Epoch 7/10: 
+Train Acc 10.3694%	 Train Loss 5.5666	 Learning Rate 0.1000
+Val Acc 5.6554%	 Val Loss 6.3673
+
+Epoch 8/10: 
+Train Acc 17.0051%	 Train Loss 4.9170	 Learning Rate 0.1000
+Val Acc 4.5841%	 Val Loss 7.1262
+
+Epoch 9/10: 
+Train Acc 24.7074%	 Train Loss 4.3100	 Learning Rate 0.1000
+Val Acc 11.6297%	 Val Loss 5.6324
+
+Epoch 10/10: 
+Train Acc 32.3675%	 Train Loss 3.7721	 Learning Rate 0.1000                                                                                               Val Acc 17.3943%	 Val Loss 5.0773
